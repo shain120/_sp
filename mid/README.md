@@ -3,7 +3,7 @@
 
 ## 主題：Mini 語言直譯器（Interpreter for MiniGo）
 在先前學習 Terraform 時，因為需要使用 Go 語言（Golang）撰寫與擴充模組，因此接觸了 Go 的語法與執行架構。這讓我對其簡潔且結構清晰的語法印象深刻。
-
+[Golang](https://willh.gitbook.io/build-web-application-with-golang-zhtw/02.0/02.2)語法參考，
 內容運用Chatgpt在[cpython](https://github.com/python/cpython/tree/main)的專案中尋找重點，分為三大類。
 ChatGPT 協助下建立了直譯器的初始模板，包含三大核心模組：
 1. **詞法分析（token）**  
